@@ -14,3 +14,4 @@
 - docs: clarify the setup steps
 - docs: add a note about the defaults
 - fix: add a note about the defaults
+- fix: link the usage section
